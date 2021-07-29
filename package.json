@@ -1,0 +1,22 @@
+{
+  "name": "tdd-react-learn-project",
+  "version": "1.0.0",
+  "description": "Learn Project for TDD React ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacob-wilcox/tdd-react-learn-project.git"
+  },
+  "author": "Jacob Wilcox",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jacob-wilcox/tdd-react-learn-project/issues"
+  },
+  "homepage": "https://github.com/jacob-wilcox/tdd-react-learn-project#readme",
+  "devDependencies": {
+    "cypress": "^8.0.0"
+  }
+}
